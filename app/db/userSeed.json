@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6294ae7769ddd16d153cc0d1",
+    "username": "mail1@mail.com",
+    "password": "$2a$10$CH5M0oPHCQr9mIRm92jVjuj456u17RYtZda3HSnzonq9LOOIYPWGS",
+    "createdAt": "2022-05-30T11:45:59.504Z"
+  },
+  {
+    "_id": "6294aec969ddd16d153cc0e4",
+    "username": "mail2@mail.com",
+    "password": "$2a$10$Rqoyqmo8O3oVM.NDwlR6qO6vkz91DC7erKzIs4/NpBx0vXGD3e/nS",
+    "createdAt": "2022-05-30T11:47:21.660Z"
+  },
+  {
+    "_id": "6294af0b69ddd16d153cc0f7",
+    "username": "mail3@mail.com",
+    "password": "$2a$10$IA8ZR07lZWl0r6IfrwUOleb97MFFkQMw.KXlZxPa0OsLYefX2UDoO",
+    "createdAt": "2022-05-30T11:48:27.115Z"
+  },
+  {
+    "_id": "6294af4669ddd16d153cc10a",
+    "username": "mail4@mail.com",
+    "password": "$2a$10$Bb5B7VTldP6bYqotKNHzW.0OcFPuQtxsm5wNhoUzRdSo9uGmPi7PS",
+    "createdAt": "2022-05-30T11:49:26.180Z"
+  },
+  {
+    "_id": "6294af8369ddd16d153cc11f",
+    "username": "mail5@mail.com",
+    "password": "$2a$10$iimOaBvSj7FWcXX/d6NtVOms/q9VUwtSIOx8eG9.kS.hYf3Obt84y",
+    "createdAt": "2022-05-30T11:50:27.809Z"
+  }
+]
